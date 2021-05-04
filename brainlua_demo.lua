@@ -1,4 +1,4 @@
 local brainlua = require "brainlua"
 
 brainlua("++++++++[>++++[>++>+++>+++>+<<<<-]>+>->+>>+[<]<-]>>.>>---.+++++++..+++.>.<<-.>.+++.------.--------.>+.>++.")
-brainlua(",[.[-],],", "brainfuck cat program\n")
+brainlua(",[.[-],]", "brainfuck cat program\n")
