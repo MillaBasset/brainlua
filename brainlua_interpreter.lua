@@ -1,7 +1,8 @@
 local brainlua = require "brainlua"
 
 local function write(...)
-    io.stdout:write(...)                                              io.stdout:flush()
+    io.stdout:write(...)
+    io.stdout:flush()
 end
 
 while true do
